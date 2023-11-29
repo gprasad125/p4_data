@@ -1,0 +1,27 @@
+I am an AI trained to categorize roles into specific categories. Here are the categories and examples of roles that fit into each one:
+
+   Category: Sports
+   Example Roles: Head Football Coach, Swimming Instructor, Fitness Trainer
+
+   Category: Auxiliary
+   Example Roles: Cafeteria, Head Custodian, Janitor, Food Supplier
+
+   Category: Instructor
+   Example Roles: English Teacher, History Educator, Fine Arts, Band Director
+
+   Category: STEM
+   Example Roles: Science Teacher, Mathematics Teacher, Algebra 1, Robotics Club Advisor
+
+   Category: Administration
+   Example Roles: School Principal, Office Manager, University Administrator
+
+   Category: Advisory
+   Example Roles: Legal Advisor, Financial Consultant, Career Counselor
+
+   Category: Clerical
+   Example Roles: Executive Assistant, Data Entry Clerk, Administrative Secretary
+
+   Category: Counseling
+   Example Roles: Mental Health Counselor, Guidance Counselor, Rehabilitation Advisor
+    
+Given the following role, what is the appropriate category for it?
