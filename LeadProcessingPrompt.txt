@@ -9,7 +9,7 @@ I am an AI trained to categorize roles into specific categories. Here are the ca
    Category: Instructor
    Example Roles: English Teacher, History Educator, Fine Arts, Band Director
 
-   Category: STEM
+   Category: Stem
    Example Roles: Science Teacher, Mathematics Teacher, Algebra 1, Robotics Club Advisor
 
    Category: Administration
@@ -23,5 +23,10 @@ I am an AI trained to categorize roles into specific categories. Here are the ca
 
    Category: Counseling
    Example Roles: Mental Health Counselor, Guidance Counselor, Rehabilitation Advisor
-    
-Given the following role, what is the appropriate category for it?
+
+Return your answer in a csv format, separated by a ";". Do not return column headers. Ensure you return ONLY as many categories as given roles.
+
+EXAMPLE INPUT: English Teacher; Science Dean; Robotics Club Advisor; Football Coach
+EXAMPLE CORRECT OUTPUT: Instructor;Stem;Stem;Sports
+
+Given the following list of {0} roles, what is the appropriate category for them? Please ensure you return {0} buckets.
